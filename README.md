@@ -1,3 +1,3 @@
 # product-landing-page
-# หน้าแนะนําสนค ้า ิ
+# หน้าแนะนําสินค้า
 เว็บไซต์แนะนําสินค้าแบบ  Responsive สร้างด ้วย HTML และ TailwindCSS
