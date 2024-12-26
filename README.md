@@ -1,3 +1,20 @@
-# product-landing-page
-# หน้าแนะนําสินค้า
-เว็บไซต์แนะนําสินค้าแบบ  Responsive สร้างด ้วย HTML และ TailwindCSS
+- # product-landing-page
+- # หน้าแนะนําสินค้า
+- เว็บไซต์แนะนําสินค้าแบบ  Responsive สร้างด้วย HTML และ TailwindCSS
+- 
+- # คำสั่งที่ใช้
+- git config --global user.name "pandecha"
+- git config --global user.email "66160027@go.buu.ac.th"
+- git add .
+- git commit -m "แก้สร้างโครงสร้างโปรเจคเริ่มต้น"
+- git push
+- git commit -m "แก้"
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"
+- git commit -m "เพิ่มเมนูนําทางแบบ Responsive"
+- git commit -m "เพิ่มสวน ่ Hero และปุ่ มเรียกให ้ดําเนินการ"
+- git commit -m "เพิ่มสวน ่ Hero และปุ่ มเรียกให ้ดําเนินการ"
+- git commit -m "เพิ่มสวนแสดงคุณสมบัติพร้อมการ์ด"
+- git commit -m "แก้อีก"
+- git commit -m "แก้อีก"
+- git commit -m "เพิ่มสวนท ้ายแบบ ่ Responsive"
+- git push
