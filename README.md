@@ -17,4 +17,5 @@
 - git commit -m "แก้อีก"
 - git commit -m "แก้อีก"
 - git commit -m "เพิ่มสวนท ้ายแบบ ่ Responsive"
+- git commot -m "คำสั่งที่ใช้"
 - git push
